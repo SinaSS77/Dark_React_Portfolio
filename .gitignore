@@ -3,3 +3,4 @@ node_modules
 # eslint cache
 .eslintcache
 .DS_Store
+/build
